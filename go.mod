@@ -1,4 +1,4 @@
-module github.com/atroncy/go-sentry-api
+module github.com/atroncyatlassian/go-sentry-api
 
 go 1.13
 
